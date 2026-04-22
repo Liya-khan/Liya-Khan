@@ -12,7 +12,7 @@ Currently working as a GIS Developer at GIS Genius and GIS Associate at KP Board
 of Revenue, while teaching post-graduate GIS Diploma students at BRAINS Institute.
 
 ## Tech Stack
-**GIS & Remote Sensing:** ArcGIS Pro/Enterprise, QGIS, Google Earth Engine, ERDAS  
+**GIS & Remote Sensing:** ArcGIS Pro/Enterprise, QGIS, Google Earth Engine 
 **Web Development:** React.js, Leaflet, Mapbox, HTML/CSS  
 **Backend & APIs:** Python, Flask, FastAPI, PostgreSQL/PostGIS  
 **Spatial Analysis:** R, SPI, SPEI, VCI, NDVI, NDWI, CHIRPS, ERA5, GRACE  
