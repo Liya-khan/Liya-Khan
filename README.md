@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Liya Rahim Khan 👋
 
-<!--
-**Liya-khan/Liya-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 GIS Developer | Remote Sensing Analyst | Geospatial Researcher  
+📍 Peshawar, Pakistan
 
-Here are some ideas to get you started:
+## About Me
+Gold Medallist BSc Geomatics graduate building full-stack geospatial solutions —
+from React web mapping apps and custom QGIS plugins to ArcGIS Enterprise portals
+and Python spatial automation pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as a GIS Developer at GIS Genius and GIS Associate at KP Board
+of Revenue, while teaching post-graduate GIS Diploma students at BRAINS Institute.
+
+## Tech Stack
+**GIS & Remote Sensing:** ArcGIS Pro/Enterprise, QGIS, Google Earth Engine, ERDAS  
+**Web Development:** React.js, Leaflet, Mapbox, HTML/CSS  
+**Backend & APIs:** Python, Flask, FastAPI, PostgreSQL/PostGIS  
+**Spatial Analysis:** R, SPI, SPEI, VCI, NDVI, NDWI, CHIRPS, ERA5, GRACE  
+
+## Research
+🎓 BSc Thesis: From Rainfall Deficit to Groundwater Depletion Drought Propagation in the Bannu Basin (2014–2024) 
+Used CHIRPS, ERA5, GRACE, GLDAS + lagged correlation analysis in R & GEE
+
+## Contact
+📧 ayilkhan99@gmail.com
